@@ -4,7 +4,7 @@ body {
   font-family: sans-serif;
 }
 
-p{color:red; animation:example 2s}
+p{color:red; animation:example 2s; border:solid 1px #ccc}
 
 @keyframes example {
   from {opacity: 0}
