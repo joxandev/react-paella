@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+p{color:red; animation:example 2s}
+
+@keyframes example {
+  from {opacity: 0}
+  to {opacity: 1}
+}
